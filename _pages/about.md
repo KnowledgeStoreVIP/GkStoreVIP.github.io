@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: right; font-family: 'Times New Roman', Times, serif;">
-2024-12-11   评分：4.9
+<div style="text-align: right; font-family: 'SimHei', 'Times New Roman', Times, serif; font-size: 14px;">
+2024-12-11  评分：4.9
 </div>
 
 ------
