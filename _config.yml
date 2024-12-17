@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "👩🏻‍🎓 公考加油站"
+title                    : " 👩🏻‍🎓 公考加油站"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   pronouns         : "💬  微信号：bnc_0926"  
   bio              : "已考公上岸多年的老学姐一枚～"
   location         : "广东省 广州市 越秀区"
-  employer         : "浙江大学 20 届硕士生"
+  employer         : "浙江大学 22 届硕士生"
   uri              : # URL
   # email            : "347441835@qq.com" 
 
