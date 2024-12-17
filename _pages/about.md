@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "【考公资料汇总】(持续更新至2028年)"
+title: "【考公资料汇总】(持续更新2028年)"
 author_profile: true
 redirect_from: 
   - /about/
