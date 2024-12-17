@@ -12,11 +12,11 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
   - title: "🏷️ 学姐简介"
-    url: /portfolio/
+    url: /teaching/    
+
+  # - title: "portfolio"
+  #   url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
