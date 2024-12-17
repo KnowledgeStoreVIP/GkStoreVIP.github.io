@@ -19,7 +19,7 @@ redirect_from:
 
 1、粉笔行测5000申论100 中公5000必做题 华图 必做题
 
-2、2025 & 2024 国考省考事业单位网课（多个名师和多家机构：粉笔华图中公等全套精品班视频）
+2、2025 & 2024 国考省考事业单位网课（多家机构多个名师：粉笔华图中公全套精品班视频）
 
 3、三支一扶 & 遴选选调 & 军队文职专项视频及资料
 
@@ -34,6 +34,14 @@ redirect_from:
 8、《华图模块宝典》全套
 
 9、2023 名师合集（近 60 个名师）
+
+------
+
+<div style="text-align: center; font-size: 18px; background-color: #FFC0CB; color: black; font-weight: bold; border-radius: 10px;">
+有需要加学姐微信：bnc_0926
+</div>
+
+------
 
 A data-driven personal website
 ======
