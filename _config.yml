@@ -27,9 +27,8 @@ author:
   bio              : "已考公上岸多年的老学姐一枚～"
   location         : "广东省 广州市 越秀区"
   employer         : "浙江大学 20 届硕士生"
-  wechat           : "bnc_0926"
   uri              : # URL
-  email            : "347441835@qq.com" 
+  # email            : "347441835@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -74,6 +73,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  wechat           : "bnc_0926"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
