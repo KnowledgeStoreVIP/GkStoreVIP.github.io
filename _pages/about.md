@@ -1,13 +1,33 @@
 ---
 permalink: /
-title: "【考公资料汇总】（持续更新）专业考公资料，一站式备考，上岸无忧！"
+title: "【考公资料汇总】（持续更新至2028年）"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+所有资料已放在云盘的群里，打开百度云盘，加群后在群文件中下载即可。
+
+群内录制整理了多家机构课程视频（粉笔华图中公以及名师博主均有）、历年真题和其他资料如思维导图、学霸笔记批注等，共有上千GB资源，包括：
+
+1、粉笔行测5000申论100 中公5000必做题 华图 必做题
+
+2、2024 & 2023 & 2022年 国考省考事业单位网课（多个名师和多家机构：粉笔华图中公等全套精品班视频）
+
+3、三支一扶 & 遴选选调 & 军队文职专项视频及资料
+
+4、新版通用结构化面试班课程
+
+5、历年真题整理-国考省考事业单位
+
+6、时政热点整理汇总及学霸批注
+
+7、考公每日晨读必备材料
+
+8、《华图模块宝典》全套
+
+9、2023 名师合集（近 60 个名师）
 
 A data-driven personal website
 ======
