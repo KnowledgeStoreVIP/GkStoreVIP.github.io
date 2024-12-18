@@ -37,7 +37,7 @@ redirect_from:
 
 ------
 
-<div style="text-align: center; font-size: 18px; background-color: #FFC0CB; color: black; font-weight: bold; border-radius: 10px;">
+<div style="text-align: center; font-size: 22px; background-color: #FFC0CB; color: black; font-weight: bold; border-radius: 24px;">
 有需要加学姐微信：bnc_0926
 </div>
 
