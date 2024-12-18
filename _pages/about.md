@@ -58,7 +58,7 @@ redirect_from:
 ------
 
 <div style="text-align: center; font-size: 22px; background-color: #F6F1A3; color: black; font-weight: bold; border-radius: 24px;">
-  具体见<a href="https://knowledgestorevip.github.io/GkStoreVIP.github.io//markdown/" target="_blank">📚 资料详情</a>或加微信bnc_0926咨询。
+  具体见<a href="https://knowledgestorevip.github.io/GkStoreVIP.github.io//markdown/" target="_blank">📚 资料详情</a>或加微信bnc_0926咨询
 </div>
 
 ------
