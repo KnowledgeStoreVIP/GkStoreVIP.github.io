@@ -46,6 +46,7 @@ redirect_from:
 -----
 * 考试成绩
 
+上岸成绩如下所示：
 ![成绩](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/GkScore.PNG)
 
 * 备考过程
