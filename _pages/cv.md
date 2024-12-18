@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "🏷️ 学姐简介"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,26 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+🏫 教育经历
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 硕士，浙江大学（西溪校区），2020-2022
+* 本科，华东师范大学（闵行校区），2016-2020
 
-Work experience
+👩🏻‍💻 工作经历
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 广东省广州市越秀区某中心在编人员，2022至今
+  * 摸鱼躺平，身体第一，享受生活～
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 杭州阿里巴巴，产品经理实习生，2021
+  * 天猫权益产品规划及活动设计
+  * 用户调研、需求与竞对分析
+  * SQL数据分析及综合方案优化
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 上海新东方，助教实习生，2019
+  * 排课消课工作及助教课程主讲
+  * 辅助学管兼顾班级管理等工作
+
+* 上海学而思，研学教学实习生，2019
+  * 研学路线调研与学生讲义制作
+  * 课程教学主讲辅助与课堂坐班
 
