@@ -22,7 +22,7 @@ redirect_from:
 </div>
 
 -----
-* <div style="font-weight: bold">广东省广州市越秀区某中心在编人员，2022至今</div>
+* <div style="font-weight: bold">广东省广州市越秀区某单位体制内人员，2022至今</div>
   * <div style="font-weight: bold">摸鱼躺平，身体第一，享受生活～</div>
 
 
