@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<span style="text-align: center;">🏫 教育经历</span>
+<span style="text-align: center; font-size: 18px;">🏫 教育经历</span>
 
 ======
 * 硕士，浙江大学（西溪校区），2020-2022
