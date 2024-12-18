@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-🏫 教育经历
+<span style="color: red; text-align: right;">🏫 教育经历</span>
+
 ======
 * 硕士，浙江大学（西溪校区），2020-2022
 * 本科，华东师范大学（闵行校区），2016-2020
