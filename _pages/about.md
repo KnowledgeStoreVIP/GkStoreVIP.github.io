@@ -54,4 +54,4 @@ How to
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
 ------
-**具体详情见**[资料详情]([https://academicpages.github.io/markdown/](https://knowledgestorevip.github.io/GkStoreVIP.github.io//markdown/))。
+**具体详情见**[📚 资料详情](https://knowledgestorevip.github.io/GkStoreVIP.github.io//markdown/)。
