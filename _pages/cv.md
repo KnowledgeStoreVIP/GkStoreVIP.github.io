@@ -53,7 +53,7 @@ redirect_from:
 
 
 <div style="font-size: 20px; font-weight: bold">
-📝 一些备考经验：
+📝 一些备考经验，想到再补充：
 </div>
 
 1. 如果有条件可以多人一块备考，共同督促，强制一起按制定好的日常备考计划表执行。这一点挺有用，我和我室友前期一块收集考公资料、一块制定备考计划，一起的这个过程真的很高效。    <span style = "color: red"> 有需要完整备考资料的可以加学姐的<span style = "font-weight: bold">微信</span> <code><b>bnc_0926</b></code> </span>
