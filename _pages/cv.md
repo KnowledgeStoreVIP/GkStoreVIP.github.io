@@ -9,13 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-<span style="text-align: center; font-size: 18px;">🏫 教育经历</span>
+<div style="text-align: center; font-size: 18px;">
+🏫 教育经历
+</div>
 
 -----
 * 硕士，浙江大学（西溪校区），2020-2022
 * 本科，华东师范大学（闵行校区），2016-2020
 
-<span style="text-align: center; font-size: 18px;">👩🏻‍💻 工作经历</span>
+<div style="text-align: center; font-size: 18px;">
+👩🏻‍💻 工作经历
+</div>
 
 -----
 * 广东省广州市越秀区某中心在编人员，2022至今
