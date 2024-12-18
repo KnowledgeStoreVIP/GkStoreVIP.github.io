@@ -43,21 +43,22 @@ redirect_from:
 
 ------
 
+
+
 下面是部分资料截图：
 ======
-哈哈哈
 
-
-How to
-------
-例子：
 ![Editing a markdown file for a talk](/images/editing-talk.png)
+
+
+
+
+
 
 ------
 
 <div style="text-align: center; font-size: 22px; background-color: #FFC0CB; color: black; font-weight: bold; border-radius: 24px;">
 具体详情见[📚 资料详情](https://knowledgestorevip.github.io/GkStoreVIP.github.io//markdown/)
 </div>
-
 
 ------
