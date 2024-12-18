@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="text-align: center; font-size: 30px;">
+<div style="text-align: center; font-size: 23px; ">
 🏫 教育经历
 </div>
 
@@ -17,7 +17,7 @@ redirect_from:
 * 硕士，浙江大学（西溪校区），2020-2022
 * 本科，华东师范大学（闵行校区），2016-2020
 
-<div style="text-align: center; font-size: 18px;">
+<div style="text-align: center; font-size: 23px;">
 👩🏻‍💻 工作经历
 </div>
 
@@ -38,7 +38,7 @@ redirect_from:
   * 研学路线调研与学生讲义制作
   * 课程教学主讲辅助与课堂坐班
  
-<div style="text-align: center; font-size: 18px;">
+<div style="text-align: center; font-size: 23px;">
 ✅ 上岸经历
 </div>
 
