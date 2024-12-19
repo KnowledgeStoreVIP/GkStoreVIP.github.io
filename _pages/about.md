@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!-- 浮动导航 -->
-<div style="
+<div id="Home" style="
   position: fixed; 
   top: 68px; 
   left: 0; 
@@ -67,7 +67,7 @@ redirect_from:
   }
 </script>
 
-<div id="Home" style="text-align: right; font-family: 'SimHei', 'Times New Roman', Times, serif; font-size: 14px;">
+<div style="text-align: right; font-family: 'SimHei', 'Times New Roman', Times, serif; font-size: 14px;">
   2024-12-09&nbsp;&nbsp;&nbsp;评分：4.9
 </div>
 
