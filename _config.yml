@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : " 👩🏻‍🎓 公考加油站"
-title_separator          : " - "
+title                    : ""
+title_separator          : " - 👩🏻‍🎓 公考加油站"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://knowledgestorevip.github.io/GkStoreVIP.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
@@ -27,8 +27,8 @@ author:
   bio              : "👩🏻‍🎓 已考公上岸多年的老学姐一枚～"
   location         : "广东省 广州市 越秀区"
   employer         : "浙江大学 22 届硕士生"
-  uri              : # URL
-  # email            : "347441835@qq.com" 
+  # uri              : # URL
+  # email            :  
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
