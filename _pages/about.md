@@ -79,7 +79,7 @@ redirect_from:
 <h3>2️⃣ 加群方式</h3>
 
 <div style="text-align: center; font-size: 22px; background-color: #FFC0CB; color: black; font-weight: bold; border-radius: 24px;">
-学姐微信：bnc_0926  私信“考公资料”
+学姐微信bnc_0926&nbsp;&nbsp;私信“考公资料”
 </div>
 
 <span style="color: red;">加学姐微信</span>   `bnc_0926`   <span style="color: red;">，私信“考公”获取群号后：</span>
