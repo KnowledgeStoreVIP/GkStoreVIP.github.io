@@ -178,7 +178,11 @@ redirect_from:
 
 ![电脑端](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/GkScore.png)
 
-免责声明加一个。
+![电脑端](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/GkScore.png)
+
+![电脑端](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/GkScore.png)
+
+![电脑端](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/GkScore.png)
 
 
 
@@ -192,6 +196,8 @@ redirect_from:
 
 超1000TB资料整理无法全部展示，相关截图仅为小部分。在群内可以直接按下图方式进行所需文件的检索，并在群中查看或下载文件即可：
 
+![资料检索方式](https://i-blog.csdnimg.cn/direct/61f3ead195ae4c2da60097b56c3452c0.png)
+
 <h3>2️⃣ 加群方式👥</h3>
 
 <div style="text-align: center; font-size: 22px; background-color: #FFC0CB; color: black; font-weight: bold; border-radius: 24px;">
@@ -200,9 +206,7 @@ redirect_from:
 
 <span style="color: red;">加学姐微信</span>   `bnc_0926`   <span style="color: red;">，私信“考公资料”获取群号后：</span>
 
-![电脑端](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/GkScore.png)
-
-![移动端](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/GkScore.png)
+![加群方式](https://i-blog.csdnimg.cn/direct/1d5418bb9270412b9894f2e2ae122310.png)
 
 
 
