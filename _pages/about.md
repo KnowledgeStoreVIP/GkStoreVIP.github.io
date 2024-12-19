@@ -27,7 +27,7 @@ redirect_from:
     color: #333; 
     text-align: center; 
     flex: 1; 
-    padding: 10px 0;" 
+    padding: 2px 0;" 
     onclick="setActive(this)">🔝 回到顶部</a>
   
   <a href="#about" style="
