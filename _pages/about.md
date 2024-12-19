@@ -28,7 +28,7 @@ redirect_from:
     text-align: center; 
     flex: 1; 
     padding: 2px 0;" 
-    onclick="setActive(this)">🔝 回到顶部</a>
+    onclick="scrollToSection(event, 'Home')">🔝 回到顶部</a>
   
   <a href="#about" style="
     text-decoration: none; 
@@ -38,7 +38,7 @@ redirect_from:
     text-align: center; 
     flex: 1; 
     padding: 2px 0;" 
-    onclick="setActive(this)">🏷️ 学姐简介</a>
+    onclick="scrollToSection(event, 'about')">🏷️ 学姐简介</a>
   
   <a href="#details" style="
     text-decoration: none; 
@@ -48,22 +48,39 @@ redirect_from:
     text-align: center; 
     flex: 1; 
     padding: 2px 0;" 
-    onclick="setActive(this)">📚 资料详情</a>
+    onclick="scrollToSection(event, 'details')">📚 资料详情</a>
 </div>
 
 <script>
   // 定义函数来设置点击后的激活样式
   function setActive(element) {
-    // 获取导航栏内所有链接
     const links = document.querySelectorAll('#navbar a');
-    // 遍历每个链接，移除激活样式
     links.forEach(link => {
-      link.style.color = '#333'; // 恢复默认字体颜色
-      link.style.backgroundColor = '#f5f5f5'; // 恢复默认背景颜色
+      link.style.color = '#333';
+      link.style.backgroundColor = '#f5f5f5';
     });
-    // 设置当前点击链接的样式
-    element.style.color = 'blue'; // 字体颜色变蓝
-    element.style.backgroundColor = '#ddd'; // 背景颜色加深
+    element.style.color = 'blue';
+    element.style.backgroundColor = '#ddd';
+  }
+
+  // 定义滚动到目标位置的函数
+  function scrollToSection(event, sectionId) {
+    event.preventDefault(); // 阻止默认的跳转行为
+
+    const targetElement = document.getElementById(sectionId);
+    if (targetElement) {
+      const offset = 100; // 偏移量
+      const targetPosition = targetElement.offsetTop - offset;
+
+      window.scrollTo({
+        top: targetPosition,
+        behavior: 'smooth' // 平滑滚动
+      });
+
+      // 设置激活样式
+      const currentLink = event.target;
+      setActive(currentLink);
+    }
   }
 </script>
 
