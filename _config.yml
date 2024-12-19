@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : " 👩🏻‍🎓 公考加油站"
+title                    : ""
 title_separator          : " - "
 name                     : &name "Your Name"
 description              : &description "personal description"
