@@ -176,13 +176,22 @@ redirect_from:
 
 下面是部分资料的截图：
 
-![电脑端](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/GkScore.png)
-
-![电脑端](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/GkScore.png)
-
-![电脑端](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/GkScore.png)
-
-![电脑端](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/GkScore.png)
+![0](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/0.jpg)
+![1](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/1.jpg)
+![2](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/2.jpg)
+![3](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/3.jpg)
+![4](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/4.jpg)
+![5](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/5.jpg)
+![6](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/6.jpg)
+![7](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/7.jpg)
+![8](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/8.jpg)
+![9](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/9.jpg)
+![10](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/10.jpg)
+![11](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/11.jpg)
+![12](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/12.jpg)
+![13](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/13.jpg)
+![14](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/14.jpg)
+![15](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/15.jpg)
 
 
 
@@ -196,7 +205,7 @@ redirect_from:
 
 超1000TB资料整理无法全部展示，相关截图仅为小部分。在群内可以直接按下图方式进行所需文件的检索，并在群中查看或下载文件即可：
 
-![资料检索方式](https://i-blog.csdnimg.cn/direct/61f3ead195ae4c2da60097b56c3452c0.png)
+![jiansuo](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/jiansuo.png)
 
 <h3>2️⃣ 加群方式👥</h3>
 
@@ -206,7 +215,7 @@ redirect_from:
 
 <span style="color: red;">加学姐微信</span>   `bnc_0926`   <span style="color: red;">，私信“考公资料”获取群号后：</span>
 
-![加群方式](https://i-blog.csdnimg.cn/direct/1d5418bb9270412b9894f2e2ae122310.png)
+![jiaqun](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/jiaqun.png)
 
 
 
