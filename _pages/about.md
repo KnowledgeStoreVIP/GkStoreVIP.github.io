@@ -1,5 +1,3 @@
-测试使用看看情况！
-
 ---
 permalink: /
 title: "【考公资料汇总】(持续更新2028年)"
@@ -8,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+-----
+测试使用看看情况！
 
 <div id="Home" style="text-align: right; font-family: 'SimHei', 'Times New Roman', Times, serif; font-size: 14px;">
 2024-12-09&nbsp;&nbsp;&nbsp;评分：4.9
