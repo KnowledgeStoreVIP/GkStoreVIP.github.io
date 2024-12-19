@@ -9,7 +9,7 @@ redirect_from:
 
 -----
 <!-- 浮动导航 -->
-<div style="position: fixed; top: 10px; left: 10px; background-color: #f5f5f5; padding: 10px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
+<div style="position: fixed; top: 50px; left: 30px; background-color: #f5f5f5; padding: 10px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
   <a href="#about" style="display: block; margin-bottom: 5px; text-decoration: none; font-size: 16px; color: #333;">🏷️ 学姐简介</a>
   <a href="#details" style="display: block; text-decoration: none; font-size: 16px; color: #333;">📚 资料详情</a>
 </div>
