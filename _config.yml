@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : ""
-title_separator          : " - 👩🏻‍🎓 公考加油站"
+title_separator          : " - 👩🏻‍🎓 公考加油站测试"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://knowledgestorevip.github.io/GkStoreVIP.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
