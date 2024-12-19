@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 <!-- 浮动导航 -->
-<div id="Home" style="
+<div style="
   position: fixed; 
   top: 68px; 
   left: 0; 
   background-color: #f5f5f5; 
   width: 100%; 
-  padding: 0px 0; 
+  padding: 2px 0; 
   box-shadow: 0 2px 5px rgba(0,0,0,0.2); 
   display: flex; 
   justify-content: space-evenly; 
@@ -28,7 +28,7 @@ redirect_from:
     text-align: center; 
     flex: 1; 
     padding: 2px 0;" 
-    onclick="scrollWithOffset('#Home', this)">🔝 回到顶部</a>
+    onclick="setActive(this)">🔝 回到顶部</a>
   
   <a href="#about" style="
     text-decoration: none; 
@@ -38,7 +38,7 @@ redirect_from:
     text-align: center; 
     flex: 1; 
     padding: 2px 0;" 
-    onclick="scrollWithOffset('#about', this)">🏷️ 学姐简介</a>
+    onclick="setActive(this)">🏷️ 学姐简介</a>
   
   <a href="#details" style="
     text-decoration: none; 
@@ -48,45 +48,21 @@ redirect_from:
     text-align: center; 
     flex: 1; 
     padding: 2px 0;" 
-    onclick="scrollWithOffset('#details', this)">📚 资料详情</a>
+    onclick="setActive(this)">📚 资料详情</a>
 </div>
 
 <script>
-  // 自定义滚动跳转并设置激活样式
-  function scrollWithOffset(targetId, element) {
-    // 获取目标元素
-    const target = document.querySelector(targetId);
-    if (target) {
-      // 滚动到目标位置，顶部留出偏移量
-      const offset = 100; // 偏移量
-      const targetPosition = target.offsetTop - offset;
-      window.scrollTo({
-        top: targetPosition,
-        behavior: 'smooth'
-      });
-
-      // 设置目标区域的背景高亮
-      target.style.backgroundColor = '#f0f0f0'; // 高亮背景
-      setTimeout(() => {
-        target.style.backgroundColor = 'transparent'; // 3秒后恢复背景
-      }, 3000);
-
-      // 更新导航栏激活状态
-      setActive(element);
-    }
-  }
-
-  // 更新导航栏激活样式
+  // 定义函数来设置点击后的激活样式
   function setActive(element) {
-    // 清除所有链接的激活状态
+    // 获取导航栏内所有链接
     const links = document.querySelectorAll('#navbar a');
+    // 遍历每个链接，移除激活样式
     links.forEach(link => {
-      link.style.color = '#333'; // 恢复默认颜色
-      link.style.backgroundColor = '#f5f5f5'; // 恢复默认背景
+      link.style.color = '#333'; // 恢复默认字体颜色
+      link.style.backgroundColor = '#f5f5f5'; // 恢复默认背景颜色
     });
-
-    // 设置当前链接为激活状态
-    element.style.color = 'blue'; // 字体变蓝
+    // 设置当前点击链接的样式
+    element.style.color = 'blue'; // 字体颜色变蓝
     element.style.backgroundColor = '#ddd'; // 背景颜色加深
   }
 </script>
