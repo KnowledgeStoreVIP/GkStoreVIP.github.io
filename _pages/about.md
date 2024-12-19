@@ -59,12 +59,10 @@ redirect_from:
     // 遍历每个链接，移除激活样式
     links.forEach(link => {
       link.style.color = '#333'; // 恢复默认字体颜色
-      link.style.textDecoration = 'none'; // 移除下划线
       link.style.backgroundColor = '#f5f5f5'; // 恢复默认背景颜色
     });
     // 设置当前点击链接的样式
     element.style.color = 'blue'; // 字体颜色变蓝
-    element.style.textDecoration = 'underline'; // 添加下划线
     element.style.backgroundColor = '#ddd'; // 背景颜色加深
   }
 </script>
