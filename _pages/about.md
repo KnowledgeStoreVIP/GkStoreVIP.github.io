@@ -18,7 +18,7 @@ redirect_from:
   box-shadow: 0 2px 5px rgba(0,0,0,0.2); 
   display: flex; 
   justify-content: space-evenly; 
-  align-items: center;">
+  align-items: center;" id="navbar">
   
   <a href="#Home" style="
     text-decoration: none; 
@@ -26,7 +26,9 @@ redirect_from:
     font-size: 18px; 
     color: #333; 
     text-align: center; 
-    flex: 1;">🔝 回到顶部</a>
+    flex: 1; 
+    padding: 10px 0;" 
+    onclick="setActive(this)">🔝 回到顶部</a>
   
   <a href="#about" style="
     text-decoration: none; 
@@ -34,7 +36,9 @@ redirect_from:
     font-size: 18px; 
     color: #333; 
     text-align: center; 
-    flex: 1;">🏷️ 学姐简介</a>
+    flex: 1; 
+    padding: 10px 0;" 
+    onclick="setActive(this)">🏷️ 学姐简介</a>
   
   <a href="#details" style="
     text-decoration: none; 
@@ -42,8 +46,28 @@ redirect_from:
     font-size: 18px; 
     color: #333; 
     text-align: center; 
-    flex: 1;">📚 资料详情</a>
+    flex: 1; 
+    padding: 10px 0;" 
+    onclick="setActive(this)">📚 资料详情</a>
 </div>
+
+<script>
+  // 定义函数来设置点击后的激活样式
+  function setActive(element) {
+    // 获取导航栏内所有链接
+    const links = document.querySelectorAll('#navbar a');
+    // 遍历每个链接，移除激活样式
+    links.forEach(link => {
+      link.style.color = '#333'; // 恢复默认字体颜色
+      link.style.textDecoration = 'none'; // 移除下划线
+      link.style.backgroundColor = '#f5f5f5'; // 恢复默认背景颜色
+    });
+    // 设置当前点击链接的样式
+    element.style.color = 'blue'; // 字体颜色变蓝
+    element.style.textDecoration = 'underline'; // 添加下划线
+    element.style.backgroundColor = '#ddd'; // 背景颜色加深
+  }
+</script>
 
 <div id="Home" style="text-align: right; font-family: 'SimHei', 'Times New Roman', Times, serif; font-size: 14px;">
   2024-12-09&nbsp;&nbsp;&nbsp;评分：4.9
