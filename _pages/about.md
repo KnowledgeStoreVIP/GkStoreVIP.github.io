@@ -152,7 +152,7 @@ redirect_from:
 ![成绩](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/GkScore.png)
 
 
-<div style="font-size: 20px; font-weight: bold">
+<div style="font-weight: bold">
 📝 一些备考经验，想到再补充：
 </div>
 
