@@ -52,16 +52,20 @@ redirect_from:
 </div>
 
 <script>
+  // 定义函数来设置点击后的激活样式
   function setActive(element) {
+    // 获取导航栏内所有链接
     const links = document.querySelectorAll('#navbar a');
+    // 遍历每个链接，移除激活样式
     links.forEach(link => {
-      link.style.color = '#333'; 
-      link.style.textDecoration = 'none'; 
-      link.style.backgroundColor = '#f5f5f5'; 
+      link.style.color = '#333'; // 恢复默认字体颜色
+      link.style.textDecoration = 'none'; // 移除下划线
+      link.style.backgroundColor = '#f5f5f5'; // 恢复默认背景颜色
     });
-    element.style.color = 'blue'; 
-    element.style.textDecoration = 'underline'; 
-    element.style.backgroundColor = '#ddd'; 
+    // 设置当前点击链接的样式
+    element.style.color = 'blue'; // 字体颜色变蓝
+    element.style.textDecoration = 'underline'; // 添加下划线
+    element.style.backgroundColor = '#ddd'; // 背景颜色加深
   }
 </script>
 
