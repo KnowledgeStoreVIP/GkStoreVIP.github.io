@@ -28,7 +28,7 @@ redirect_from:
     text-align: center; 
     flex: 1; 
     padding: 1px 0;" 
-    onclick="setActive(this)">🔝 顶部</a>
+    onclick="setActive(this)">🔝 回到顶部</a>
   
   <a href="#about" style="
     text-decoration: none; 
@@ -38,7 +38,7 @@ redirect_from:
     text-align: center; 
     flex: 1; 
     padding: 1px 0;" 
-    onclick="setActive(this)">🏷️ 简介</a>
+    onclick="setActive(this)">🏷️ 学姐简介</a>
   
   <a href="#details" style="
     text-decoration: none; 
