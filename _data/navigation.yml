@@ -21,8 +21,14 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "🏷️ 学姐简介"
-    url: /cv/
+  # - title: "🏷️ 学姐简介"
+  #   url: /cv/
     
-  - title: "📚 资料详情"
-    url: /markdown/
+  # - title: "📚 资料详情"
+  #   url: /markdown/
+
+    - title: "🏷️ 学姐简介"
+      url: "#about"
+      
+    - title: "📚 资料详情"
+      url: "#details"
