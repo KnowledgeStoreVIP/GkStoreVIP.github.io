@@ -43,7 +43,7 @@ redirect_from:
 </div>
 
 <div id="Home">
-  ------
+  <hr>
 </div>
 
 <div style="text-align: right; font-family: 'SimHei', 'Times New Roman', Times, serif; font-size: 14px;">
