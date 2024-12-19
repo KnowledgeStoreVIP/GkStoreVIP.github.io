@@ -27,8 +27,8 @@ main:
   # - title: "📚 资料详情"
   #   url: /markdown/
 
-    - title: "👩🏻‍🎓 公考加油站"
-      url:"javascript:void(0)"
+    # - title: "👩🏻‍🎓 公考加油站"
+    #   url:"javascript:void(0)"
 
     - title: "🏷️ 学姐简介"
       url: "#about"
