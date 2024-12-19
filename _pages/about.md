@@ -28,7 +28,7 @@ redirect_from:
     text-align: center; 
     flex: 1; 
     padding: 2px 0;" 
-    onclick="setActive(this); scrollToOffset(this, 100)">🔝 回到顶部</a>
+    onclick="setActive(this)">🔝 回到顶部</a>
   
   <a href="#about" style="
     text-decoration: none; 
@@ -38,7 +38,7 @@ redirect_from:
     text-align: center; 
     flex: 1; 
     padding: 2px 0;" 
-    onclick="setActive(this); scrollToOffset(this, 100)">🏷️ 学姐简介</a>
+    onclick="setActive(this)">🏷️ 学姐简介</a>
   
   <a href="#details" style="
     text-decoration: none; 
@@ -48,7 +48,7 @@ redirect_from:
     text-align: center; 
     flex: 1; 
     padding: 2px 0;" 
-    onclick="setActive(this); scrollToOffset(this, 300)">📚 资料详情</a>
+    onclick="setActive(this)">📚 资料详情</a>
 </div>
 
 <script>
@@ -62,23 +62,8 @@ redirect_from:
       link.style.backgroundColor = '#f5f5f5'; // 恢复默认背景颜色
     });
     // 设置当前点击链接的样式
-    element.style.color = 'blue'; // 字体颜色变蓝
+    element.style.color = '#4472C4'; // 字体颜色变深蓝色
     element.style.backgroundColor = '#ddd'; // 背景颜色加深
-  }
-
-  // 定义函数来处理点击链接后的页面滚动偏移
-  function scrollToOffset(element, offset) {
-    const targetId = element.getAttribute('href');
-    const targetElement = document.querySelector(targetId);
-    if (targetElement) {
-      // 计算目标元素的位置，并减去偏移量
-      const position = targetElement.getBoundingClientRect().top + window.pageYOffset - offset;
-      // 滚动到计算出的位置
-      window.scrollTo({
-        top: position,
-        behavior: 'smooth'
-      });
-    }
   }
 </script>
 
@@ -118,11 +103,11 @@ redirect_from:
 
 ------
 
-
 <!-- 🏷️ 学姐简介 -->
-<div id="about">
-  <h2>🏷️ 学姐简介</h2>
-</div>
+
+<div id="about"> </div>
+
+<h2>🏷️ 学姐简介</h2>
 
 <h3>1️⃣ 教育经历🏫</h3>
 
