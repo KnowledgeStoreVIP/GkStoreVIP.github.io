@@ -10,7 +10,7 @@ redirect_from:
 <!-- 浮动导航 -->
 <div style="
   position: fixed; 
-  top: 66px; 
+  top: 67px; 
   left: 0; 
   background-color: #f5f5f5; 
   width: 100%; 
@@ -27,7 +27,7 @@ redirect_from:
     color: #333; 
     text-align: center; 
     flex: 1; 
-    padding: 0.5px 0;" 
+    padding: 1px 0;" 
     onclick="setActive(this)">🔝 回到顶部</a>
   
   <a href="#about" style="
@@ -37,7 +37,7 @@ redirect_from:
     color: #333; 
     text-align: center; 
     flex: 1; 
-    padding: 0.5px 0;" 
+    padding: 1px 0;" 
     onclick="setActive(this)">🏷️ 学姐简介</a>
   
   <a href="#details" style="
@@ -47,7 +47,7 @@ redirect_from:
     color: #333; 
     text-align: center; 
     flex: 1; 
-    padding: 0.5px 0;" 
+    padding: 1px 0;" 
     onclick="setActive(this)">📚 资料详情</a>
 </div>
 
@@ -107,12 +107,13 @@ redirect_from:
 
 <div id="about"> </div>
 <div> </div>
+<div> </div>
 <h2>🏷️ 学姐简介</h2>
+
 <h3>1️⃣ 教育经历🏫</h3>
 
 * 硕士，浙江大学（西溪校区），2020-2022
 * 本科，复旦大学（邯郸校区），2016-2020
-
 
 <h3>2️⃣ 工作经历👩🏻‍💻</h3>
 
@@ -161,6 +162,7 @@ redirect_from:
 <!-- 📚 资料详情 -->
 
 <div id="details"> </div>
+<div> </div>
 <div> </div>
 <h2>📚 资料详情</h2>
 
