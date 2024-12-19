@@ -14,7 +14,7 @@ redirect_from:
   left: 0; 
   background-color: #f5f5f5; 
   width: 100%; 
-  padding: 2px 0; 
+  padding: 0px 0; 
   box-shadow: 0 2px 5px rgba(0,0,0,0.2); 
   display: flex; 
   justify-content: space-evenly; 
@@ -37,7 +37,7 @@ redirect_from:
     color: #333; 
     text-align: center; 
     flex: 1; 
-    padding: 10px 0;" 
+    padding: 2px 0;" 
     onclick="setActive(this)">🏷️ 学姐简介</a>
   
   <a href="#details" style="
@@ -47,7 +47,7 @@ redirect_from:
     color: #333; 
     text-align: center; 
     flex: 1; 
-    padding: 10px 0;" 
+    padding: 2px 0;" 
     onclick="setActive(this)">📚 资料详情</a>
 </div>
 
