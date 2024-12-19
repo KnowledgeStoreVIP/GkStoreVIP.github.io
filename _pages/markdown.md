@@ -23,3 +23,6 @@ redirect_from:
 
 加学姐微信`bnc_0926`，私信“考公”获取群号后：
 
+![电脑端](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/GkScore.png)
+
+![移动端](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/GkScore.png)
