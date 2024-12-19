@@ -9,14 +9,18 @@
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
             {% if link.title == "👩🏻‍🎓 公考加油站" %}
-              <li class="masthead__menu-item"><span>{{ link.title }}</span></li>
+              <li class="masthead__menu-item">
+                <span style="text-align: center; font-size: 24px; font-weight: bold;">{{ link.title }}</span>
+              </li>
             {% else %}
               {% if link.url contains 'http' %}
                 {% assign domain = '' %}
               {% else %}
                 {% assign domain = base_path %}
               {% endif %}
-              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+              <li class="masthead__menu-item">
+                <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+              </li>
             {% endif %}
           {% endfor %}
         </ul>
