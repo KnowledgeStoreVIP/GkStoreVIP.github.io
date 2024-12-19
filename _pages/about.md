@@ -10,11 +10,11 @@ redirect_from:
 <!-- 浮动导航 -->
 <div style="
   position: fixed; 
-  top: 65px; 
+  top: 68px; 
   left: 0; 
   background-color: #f5f5f5; 
   width: 100%; 
-  padding: 0 0; 
+  padding: 2px 0; 
   box-shadow: 0 2px 8px rgba(0,0,0,0.2); 
   display: flex; 
   justify-content: space-evenly; 
