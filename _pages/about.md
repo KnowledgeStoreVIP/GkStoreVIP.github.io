@@ -49,16 +49,6 @@ redirect_from:
     flex: 1; 
     padding: 1px 0;" 
     onclick="setActive(this)">📚 资料详情</a>
-
-  <a href="#instruct" style="
-    text-decoration: none; 
-    font-weight: bold;
-    font-size: 19px; 
-    color: #333; 
-    text-align: center; 
-    flex: 1; 
-    padding: 1px 0;" 
-    onclick="setActive(this)">💡 使用说明</a>
 </div>
 
 <script>
