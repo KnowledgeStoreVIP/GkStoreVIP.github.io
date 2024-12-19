@@ -28,7 +28,7 @@ redirect_from:
     text-align: center; 
     flex: 1; 
     padding: 1px 0;" 
-    onclick="setActive(this)">🔝 回到顶部</a>
+    onclick="setActive(this)">🔝 顶部</a>
   
   <a href="#about" style="
     text-decoration: none; 
@@ -38,7 +38,7 @@ redirect_from:
     text-align: center; 
     flex: 1; 
     padding: 1px 0;" 
-    onclick="setActive(this)">🏷️ 学姐简介</a>
+    onclick="setActive(this)">🏷️ 简介</a>
   
   <a href="#details" style="
     text-decoration: none; 
@@ -49,6 +49,16 @@ redirect_from:
     flex: 1; 
     padding: 1px 0;" 
     onclick="setActive(this)">📚 资料详情</a>
+
+  <a href="#instruct" style="
+    text-decoration: none; 
+    font-weight: bold;
+    font-size: 19px; 
+    color: #333; 
+    text-align: center; 
+    flex: 1; 
+    padding: 1px 0;" 
+    onclick="setActive(this)">💡 使用说明</a>
 </div>
 
 <script>
@@ -105,8 +115,7 @@ redirect_from:
 
 <!-- 🏷️ 学姐简介 -->
 
-<div id="about"> &nbsp </div>
-<br>
+<div id="about"> </div>
 <br>
 <h2>🏷️ 学姐简介</h2>
 
@@ -161,8 +170,7 @@ redirect_from:
 
 <!-- 📚 资料详情 -->
 
-<div id="details"> &nbsp </div>
-<br>
+<div id="details"> </div>
 <br>
 <h2>📚 资料详情</h2>
 
@@ -174,9 +182,11 @@ redirect_from:
 
 
 
-<div id="instruct">
-  <h2>使用说明</h2>
-</div>
+<!-- 💡 使用说明 -->
+
+<div id="instruct"> </div>
+<br>
+<h2>💡 使用说明</h2>
 
 <h3>1️⃣ 资料检索方式🔎</h3>
 
