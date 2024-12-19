@@ -82,7 +82,7 @@ redirect_from:
 学姐微信bnc_0926&nbsp;&nbsp;私信“考公资料”
 </div>
 
-<span style="color: red;">加学姐微信</span>   `bnc_0926`   <span style="color: red;">，私信“考公”获取群号后：</span>
+<span style="color: red;">加学姐微信</span>   `bnc_0926`   <span style="color: red;">，私信“考公资料”获取群号后：</span>
 
 ![电脑端](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/GkScore.png)
 
