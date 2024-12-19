@@ -69,7 +69,7 @@ redirect_from:
 
     const targetElement = document.getElementById(sectionId);
     if (targetElement) {
-      const offset = 100; // 偏移量
+      const offset = 100px; // 偏移量
       const targetPosition = targetElement.offsetTop - offset;
 
       window.scrollTo({
