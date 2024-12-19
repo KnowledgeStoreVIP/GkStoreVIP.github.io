@@ -37,6 +37,18 @@ redirect_from:
 
 ------
 
+<div style="text-align: center; font-size: 22px; background-color: #FFC0CB; color: black; font-weight: bold; border-radius: 24px;">
+有需要加学姐微信：bnc_0926
+</div>
+
+------
+
+下面是部分资料截图：
+======
+
+![Editing a markdown file for a talk](/images/editing-talk.png)
+
+
 <div id="about">
   <h2>学姐简介</h2>
   <p>这里是学姐简介的内容...</p>
@@ -46,22 +58,6 @@ redirect_from:
   <h2>资料详情</h2>
   <p>这里是资料详情的内容...</p>
 </div>
-
-<div style="text-align: center; font-size: 22px; background-color: #FFC0CB; color: black; font-weight: bold; border-radius: 24px;">
-有需要加学姐微信：bnc_0926
-</div>
-
-------
-
-
-
-下面是部分资料截图：
-======
-
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-
-
 
 
 
