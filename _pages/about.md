@@ -10,16 +10,14 @@ redirect_from:
 <!-- 浮动导航 -->
 <div style="
   position: fixed; 
-  top: 80px; 
-  left: 50%; 
-  transform: translateX(-50%); 
+  top: 65px; 
+  left: 0; 
   background-color: #f5f5f5; 
-  width: 60%; 
-  padding: 10px; 
-  border-radius: 8px; 
+  width: 100%; 
+  padding: 0 0; 
   box-shadow: 0 2px 8px rgba(0,0,0,0.2); 
   display: flex; 
-  justify-content: space-between; 
+  justify-content: space-evenly; 
   align-items: center;">
   
   <a href="#Home" style="
