@@ -37,6 +37,16 @@ redirect_from:
 
 ------
 
+<div id="about">
+  <h2>学姐简介</h2>
+  <p>这里是学姐简介的内容...</p>
+</div>
+
+<div id="details">
+  <h2>资料详情</h2>
+  <p>这里是资料详情的内容...</p>
+</div>
+
 <div style="text-align: center; font-size: 22px; background-color: #FFC0CB; color: black; font-weight: bold; border-radius: 24px;">
 有需要加学姐微信：bnc_0926
 </div>
