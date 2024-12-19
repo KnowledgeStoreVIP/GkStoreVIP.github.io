@@ -105,9 +105,9 @@ redirect_from:
 
 <!-- 🏷️ 学姐简介 -->
 
-<div id="about"> </div>
-<div> </div>
-<div> </div>
+<div id="about"> &nbsp </div>
+<div> &nbsp </div>
+<div> &nbsp </div>
 <h2>🏷️ 学姐简介</h2>
 
 <h3>1️⃣ 教育经历🏫</h3>
@@ -161,9 +161,9 @@ redirect_from:
 
 <!-- 📚 资料详情 -->
 
-<div id="details"> </div>
-<div> </div>
-<div> </div>
+<div id="details"> &nbsp </div>
+<div> &nbsp </div>
+<div> &nbsp </div>
 <h2>📚 资料详情</h2>
 
 下面是部分资料的截图：
