@@ -43,10 +43,7 @@ redirect_from:
 
 ------
 
-下面是部分资料截图：
-======
 
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 
 <div id="about">
@@ -56,7 +53,10 @@ redirect_from:
 
 <div id="details">
   <h2>资料详情</h2>
-  <p>这里是资料详情的内容...</p>
+  下面是部分资料的截图：
+  
+  ![Editing a markdown file for a talk](/images/editing-talk.png)
+  
 </div>
 
 
