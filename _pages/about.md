@@ -7,15 +7,45 @@ redirect_from:
   - /about.html
 ---
 
------
 <!-- 浮动导航 -->
-<div style="position: fixed; top: 50px; left: 30px; background-color: #f5f5f5; padding: 10px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
-  <a href="#about" style="display: block; margin-bottom: 5px; text-decoration: none; font-size: 16px; color: #333;">🏷️ 学姐简介</a>
-  <a href="#details" style="display: block; text-decoration: none; font-size: 16px; color: #333;">📚 资料详情</a>
+<div style="
+  position: fixed; 
+  top: 80px; 
+  left: 50%; 
+  transform: translateX(-50%); 
+  background-color: #f5f5f5; 
+  width: 60%; 
+  padding: 10px; 
+  border-radius: 8px; 
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2); 
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center;">
+  
+  <a href="#Home" style="
+    text-decoration: none; 
+    font-size: 16px; 
+    color: #333; 
+    text-align: center; 
+    flex: 1;">🔝 回到顶部</a>
+  
+  <a href="#about" style="
+    text-decoration: none; 
+    font-size: 16px; 
+    color: #333; 
+    text-align: center; 
+    flex: 1;">🏷️ 学姐简介</a>
+  
+  <a href="#details" style="
+    text-decoration: none; 
+    font-size: 16px; 
+    color: #333; 
+    text-align: center; 
+    flex: 1;">📚 资料详情</a>
 </div>
 
 <div id="Home" style="text-align: right; font-family: 'SimHei', 'Times New Roman', Times, serif; font-size: 14px;">
-2024-12-09&nbsp;&nbsp;&nbsp;评分：4.9
+  2024-12-09&nbsp;&nbsp;&nbsp;评分：4.9
 </div>
 
 ------
