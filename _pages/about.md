@@ -49,47 +49,44 @@ redirect_from:
 
 <div id="about">
   <h2>学姐简介</h2>
-  <p>这里是学姐简介的内容...</p>
 </div>
+
+这里是学姐简介的内容...
 
 
 
 <div id="details">
   <h2>资料详情</h2>
-  下面是部分资料的截图：
-
-  ![电脑端](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/GkScore.png)
-  
-  免责声明加一个。
 </div>
+
+下面是部分资料的截图：
+
+![电脑端](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/GkScore.png)
+
+免责声明加一个。
 
 
 
 <div id="instruct">
   <h2>使用说明</h2>
-  <h3>1️⃣ 资料检索方式</h3>
-  
-  超1000TB资料整理无法全部展示，相关截图仅为一部分。在群内可以直接按下图方式进行所需文件的检索，并在群中查看或下载文件即可：
-
-  <h3>2️⃣ 加群方式</h3>
-  
-  <span style="color: red;">加学姐微信</span>   `bnc_0926`   <span style="color: red;">，私信“考公”获取群号后：</span>
-  
-  ![电脑端](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/GkScore.png)
-  
-  ![移动端](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/GkScore.png)
 </div>
 
+<h3>1️⃣ 资料检索方式</h3>
 
+超1000TB资料整理无法全部展示，相关截图仅为一部分。在群内可以直接按下图方式进行所需文件的检索，并在群中查看或下载文件即可：
 
+<h3>2️⃣ 加群方式</h3>
 
-
-
-
-------
-
-<div style="text-align: center; font-size: 22px; background-color: #F6F1A3; color: black; font-weight: bold; border-radius: 24px;">
-  见<a href="https://knowledgestorevip.github.io/GkStoreVIP.github.io//markdown/" target="_blank">📚 资料详情</a>或加微信bnc_0926咨询
+<div style="text-align: center; font-size: 22px; background-color: #FFC0CB; color: black; font-weight: bold; border-radius: 24px;">
+学姐微信：bnc_0926  私信“考公资料”
 </div>
 
-------
+<span style="color: red;">加学姐微信</span>   `bnc_0926`   <span style="color: red;">，私信“考公”获取群号后：</span>
+
+![电脑端](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/GkScore.png)
+
+![移动端](https://knowledgestorevip.github.io/GkStoreVIP.github.io/images/GkScore.png)
+
+
+
+
