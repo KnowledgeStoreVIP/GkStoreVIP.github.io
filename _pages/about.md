@@ -8,7 +8,11 @@ redirect_from:
 ---
 
 -----
-测试使用看看情况！
+<!-- 浮动导航 -->
+<div style="position: fixed; top: 10px; left: 10px; background-color: #f5f5f5; padding: 10px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
+  <a href="#about" style="display: block; margin-bottom: 5px; text-decoration: none; font-size: 16px; color: #333;">🏷️ 学姐简介</a>
+  <a href="#details" style="display: block; text-decoration: none; font-size: 16px; color: #333;">📚 资料详情</a>
+</div>
 
 <div id="Home" style="text-align: right; font-family: 'SimHei', 'Times New Roman', Times, serif; font-size: 14px;">
 2024-12-09&nbsp;&nbsp;&nbsp;评分：4.9
@@ -47,18 +51,18 @@ redirect_from:
 ------
 
 
-
+<!-- 🏷️ 学姐简介 -->
 <div id="about">
-  <h2>学姐简介</h2>
+  <h2>🏷️ 学姐简介</h2>
 </div>
 
-<h3>🏫 教育经历</h3>
+<h3>1️⃣ 教育经历🏫</h3>
 
 * 硕士，浙江大学（西溪校区），2020-2022
 * 本科，复旦大学（邯郸校区），2016-2020
 
 
-<h3>👩🏻‍💻 工作经历</h3>
+<h3>2️⃣ 工作经历👩🏻‍💻</h3>
 
 * <div style="font-weight: bold">广东省广州市越秀区某单位体制内人员，2022至今</div>
   * <div style="font-weight: bold">摸鱼躺平，身体第一，享受生活～</div>
@@ -77,7 +81,7 @@ redirect_from:
   * 研学路线调研与学生讲义制作
   * 课程教学主讲辅助与课堂坐班
  
-<h3>✅ 上岸经历</h3>
+<h3>✅3️⃣ 上岸经历💯</h3>
 
 简单来说我的运气比较好，当时查笔面成绩知道第一上岸的心情就跟高考查分那会似的有些激动hhhh，不过这也离不开自己的努力以及室友的陪伴（当时是和室友一块备考的，她考回了天河区，她家在珠江新城那边～）。
 
@@ -101,9 +105,9 @@ redirect_from:
 9. 大作文可以按照：标题+开头+论点+论据+分论点+结尾的格式去写。
 
 
-
+<!-- 📚 资料详情 -->
 <div id="details">
-  <h2>资料详情</h2>
+  <h2>📚 资料详情</h2>
 </div>
 
 下面是部分资料的截图：
@@ -118,11 +122,11 @@ redirect_from:
   <h2>使用说明</h2>
 </div>
 
-<h3>1️⃣ 资料检索方式</h3>
+<h3>1️⃣ 资料检索方式🔎</h3>
 
 超1000TB资料整理无法全部展示，相关截图仅为小部分。在群内可以直接按下图方式进行所需文件的检索，并在群中查看或下载文件即可：
 
-<h3>2️⃣ 加群方式</h3>
+<h3>2️⃣ 加群方式👥</h3>
 
 <div style="text-align: center; font-size: 22px; background-color: #FFC0CB; color: black; font-weight: bold; border-radius: 24px;">
 学姐微信bnc_0926&nbsp;&nbsp;私信“考公资料”
