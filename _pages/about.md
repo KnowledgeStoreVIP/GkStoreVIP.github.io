@@ -15,38 +15,37 @@ redirect_from:
   background-color: #f5f5f5; 
   width: 100%; 
   padding: 2px 0; 
-  box-shadow: 0 2px 8px rgba(0,0,0,0.2); 
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2); 
   display: flex; 
   justify-content: space-evenly; 
   align-items: center;">
   
   <a href="#Home" style="
     text-decoration: none; 
-    font-size: 16px; 
+    font-weight: bold;
+    font-size: 18px; 
     color: #333; 
     text-align: center; 
     flex: 1;">🔝 回到顶部</a>
   
   <a href="#about" style="
     text-decoration: none; 
-    font-size: 16px; 
+    font-weight: bold;
+    font-size: 18px; 
     color: #333; 
     text-align: center; 
     flex: 1;">🏷️ 学姐简介</a>
   
   <a href="#details" style="
     text-decoration: none; 
-    font-size: 16px; 
+    font-weight: bold;
+    font-size: 18px; 
     color: #333; 
     text-align: center; 
     flex: 1;">📚 资料详情</a>
 </div>
 
-<div id="Home">
-  <hr>
-</div>
-
-<div style="text-align: right; font-family: 'SimHei', 'Times New Roman', Times, serif; font-size: 14px;">
+<div id="Home" style="text-align: right; font-family: 'SimHei', 'Times New Roman', Times, serif; font-size: 14px;">
   2024-12-09&nbsp;&nbsp;&nbsp;评分：4.9
 </div>
 
