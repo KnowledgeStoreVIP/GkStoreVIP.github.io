@@ -87,23 +87,25 @@ redirect_from:
 
 <b>群内录制整理了多家机构课程视频（粉笔华图中公以及名师博主均有）、历年真题和其他资料如思维导图、学霸笔记批注等，共有上千GB资源，包括但不限于：</b>
 
-<span style="color: red;">1、粉笔行测5000申论100 中公5000必做题 华图 必做题</span>
+<span style="color: red;">1、粉笔行测5000申论100 中公5000必做题 华图必做题</span>
 
-<span style="color: red;">2、2025 & 2024 国考省考事业单位网课（多家机构多个名师：粉笔华图中公全套精品班视频）</span>
+<span style="color: red;">2、国考省考事业单位网课（多家机构多个名师：粉笔华图中公全套精品班视频）</span>
 
-<span style="color: red;">3、三支一扶 & 遴选选调 & 军队文职专项视频及资料</span>
+<span style="color: red;">3、名师合集（近 200 个名师如花生、李梦娇、齐麟等）</span>
 
-<span style="color: red;">4、新版通用结构化面试班课程</span>
+<span style="color: red;">4、三支一扶 & 遴选选调 & 军队文职专项视频及资料</span>
 
-<span style="color: red;">5、历年真题整理-国考省考事业单位</span>
+<span style="color: red;">5、新版通用结构化面试班课程</span>
 
-<span style="color: red;">6、时政热点整理汇总及学霸批注</span>
+<span style="color: red;">6、历年真题整理-国考省考事业单位</span>
 
-<span style="color: red;">7、考公每日晨读必备材料</span>
+<span style="color: red;">7、时政热点整理汇总及学霸批注</span>
 
-<span style="color: red;">8、《华图模块宝典》全套</span>
+<span style="color: red;">8、考公每日晨读必备材料</span>
 
-<span style="color: red;">9、2023 名师合集（近 60 个名师）</span>
+<span style="color: red;">9、《华图模块宝典》全套</span>
+
+
 
 ------
 
